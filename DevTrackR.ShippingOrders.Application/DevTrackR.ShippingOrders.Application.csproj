@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\DevTrackR.ShippingOrders.Core\DevTrackR.ShippingOrders.Core.csproj" />
+    </ItemGroup>
+
 </Project>
